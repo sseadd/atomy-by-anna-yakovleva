@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://atomy-by-anna-yakovleva.ru/sitemap.xml
+
+Host: https://atomy-by-anna-yakovleva.ru
